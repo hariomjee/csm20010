@@ -1,0 +1,40 @@
+.mass{
+    background-color:red;
+    color: white;
+}
+.makedark
+{
+    background: rgb(106, 214, 241);
+}
+.rowspace
+{
+    margin: 2%;
+}
+.fulltextbox
+{
+   width: 100%;
+}
+.textcolor
+{
+    color: coral;
+}
+.rightcontant
+{
+    display: flex;
+    justify-content: flex-end;
+}
+.displaycentre
+{
+    display: flex;
+    margin: auto;
+}
+.leftcontant
+{
+    display: flex;
+    justify-content: flex-start;
+    justify-items: left;
+}
+.text
+{
+    color: white;
+}
